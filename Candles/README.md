@@ -28,3 +28,4 @@ Issues:
  - Doesn't take into account commission which would be important in day trading with minute candles. 
  - Stop loss should be based on ATR rather than a percentage of the stock price
  - The strategy isn't very profitable (even with 0 commission)
+ - Attempts to buy as many stocks as possible assuming no fractional shares
