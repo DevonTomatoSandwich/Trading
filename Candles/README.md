@@ -23,6 +23,7 @@ Below is an example:
 ![](https://github.com/DevonTomatoSandwich/Trading/blob/main/Candles/img/candle2.png)
 
 This is not real trading or even paper trading but similates the portfolio (cash and assets) and graphs the strategy. 
+It takes less than 1 minute to run the whole notebook (13 cells).
 
 Issues:
  - Doesn't take into account commission which would be important in day trading with minute candles. 
