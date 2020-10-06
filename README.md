@@ -11,5 +11,5 @@ Contains 3 separate notebooks
  
  TODO
   - [x] Candles
-  - [ ] Consolidation
+  - [x] Consolidation
   - [ ] Potential
