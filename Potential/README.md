@@ -9,7 +9,7 @@ To answer this question I picked every stock on the NYSE, and only invested in t
 By starting the month with only $1 for each stock, the goal is to see how much I could have potentially made at the end of the month.
 I assumed zero commission which is not the best assumption as there could be as many as 1 trade per minute
 
-The result is listed below but is also in cell 11:
+The result is listed below but is also in cell 11 (and takes only 2.5 min to run):
 {
    HTZ  : 4855919121.21
    CPE  : 68844.91
