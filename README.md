@@ -8,8 +8,3 @@ Contains 3 separate notebooks
  Simulates trading based on consolidation patterns. Plots strategy entry/exit and portfolio.
  - Potential.ipynb : 
  Finds the stock with the most potential gains of all stocks on the NYSE.
- 
- TODO
-  - [x] Candles
-  - [x] Consolidation
-  - [ ] Potential
